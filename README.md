@@ -8,10 +8,6 @@
 [Sumit Murari](https://github.com/murarisumit), November 2015
 
 
-## Thanks
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
 
 ## Copyright & License
 
