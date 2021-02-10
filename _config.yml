@@ -18,13 +18,13 @@ author: Akash Shanker
 description: Personal blog and resume
 avatar: profile.png
 email: yourname@email.com
-github: jekyller/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+github: https://github.com/AkashShanker321
+twitter: https://twitter.com/AkashShanker_78
+linkedin: https://www.linkedin.com/in/akash-shanker-a94891199/
+stackoverflow: https://stackoverflow.com/users/15173261/akash-shanker
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
