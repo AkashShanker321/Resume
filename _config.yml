@@ -12,9 +12,9 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+baseurl: /home/
+title: Akash Shanker
+author: Akash Shanker
 description: Personal blog and resume
 avatar: profile.png
 email: yourname@email.com
