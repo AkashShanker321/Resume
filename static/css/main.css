@@ -49,7 +49,7 @@ body {
   background-color: #ffffff;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-  color: #6b6b6b;
+  color: #CD5C5C;
   background-color: #ffffff;
 }
 .navbar-default .navbar-toggle {
@@ -174,11 +174,11 @@ body {
 	color: #CD5C5C;
 }
 div.footer{
-  border-bottom: 5px solid #27A822;;
+  border-bottom: 5px solid #CD5C5C;
 }
 /* Set the fixed height of the footer here */
-/*.footer {
+footer {
   height: 50px;
   padding-bottom: 15px;
   
-}*/
+}
