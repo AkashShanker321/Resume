@@ -96,10 +96,10 @@ body {
   margin: 20px 0;
 }
 .container a {
-  color: #B22222;
+  color: #FF00FF;
 }
 .container a:hover {
-  color: #DC143C;
+  color: #D100D1;
 }
 .img-responsive {
  display: block;
