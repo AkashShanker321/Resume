@@ -2,13 +2,6 @@
 
 
 
-
-#### Contributors
-
-[Sumit Murari](https://github.com/murarisumit), November 2015
-
-
-
 ## Copyright & License
 
 Copyright (C) 2015-2017 - Released under the MIT License.
